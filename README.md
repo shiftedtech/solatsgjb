@@ -1,6 +1,6 @@
 🕌 Track Singapore & Johor Bahru prayer times right on your home screen!
 
-📲 Download link: [INSERT YOUR LINK HERE]
+📲 [Download link](https://github.com/shiftedtech/solatsgjb/releases/tag/v1.0.0)
 
 How to install on Android:
 1. Tap the download link (select "Download anyway" if your browser warns you).
